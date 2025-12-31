@@ -1,0 +1,12 @@
+nutanix_username    = "admin"
+nutanix_password    = "MyStrongPassword"
+nutanix_insecure    = true
+nutanix_endpoint    = "MyPrismCentralIPAddress
+nutanix_port = 9440
+nutanix_cluster = "MyPrismElementClusterName"
+nutanix_subnet = "MySubnetName"
+nutanix_storage_container_uuid = "d9d12d04-b423-4d35-8864-6b70f020ce39"
+windows_25_iso_image_name = "fr-fr_windows_server_2025_x64_dvd_bd6be507.iso"
+virtio_iso_image_name = "Nutanix-VirtIO-1.2.5.iso"
+winrm_username = "Administrateur"
+winrm_password = "MyStrongPassword!!"
